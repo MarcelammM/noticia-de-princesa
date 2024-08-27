@@ -1,0 +1,49 @@
+body {
+	background: linear-gradient(to top, #FFC0CB,#FFB6C1,#DB7093,#FF69B4);
+}
+h1 {
+	font-family: "Arial";
+	background: #F8F8FF;
+	color: #FF69B4;
+	text-align: center;
+}
+h3 {
+	font-family: "Arial";
+	color: #F8F8FF;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+a {
+	background: #FFF0F5;
+	color: #000000;
+	tex-align: center;
+	padding: 10px 100px;
+	text-decoration: none;
+	border-radius:20px 10px;
+	border:2px solid #C71585;
+}
+a:hover{
+	background:#DB7093;
+}
+.titulo {
+	text-align: center;
+}
+
+.paragrafo {
+	text-align: justify;
+	width: 1000px;
+	margin: 20 auto;
+}
+.imagem {
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+}
+video {
+	display: block;
+	margin: 0 auto;
+}
